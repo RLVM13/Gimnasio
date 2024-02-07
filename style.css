@@ -1,0 +1,27 @@
+table {
+    border-collapse: collapse;
+    width: 40%;
+  }
+  
+  th{
+    background-color:lightgrey;
+    text-align: left;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+ }
+
+  td {
+    border-bottom: 1px solid blue;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    text-align: left;
+    border-bottom: 1px solid black;
+  }
+  
+  td:hover {
+    background-color: aquamarine;
+  }
